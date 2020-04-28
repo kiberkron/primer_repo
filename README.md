@@ -23,13 +23,15 @@ En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para pasar d
 > Este es el último párrafo
 
 Listas ordenadas
-1.Primer item
-2.Segundo item
-3.Tercer item
+1. Primer item
+2. Segundo item
+3. Tercer item
 
 Listas sin orden
-Item
-Item
-Item
+- Item
+- Item
+- Item
+``
   var name = 'Escuela de Javascript'
   console.log(name)
+``
