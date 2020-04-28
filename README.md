@@ -31,6 +31,5 @@ Listas sin orden
 Item
 Item
 Item
-`var name = 'Escuela de Javascript'
-
-console.log(name)`
+  var name = 'Escuela de Javascript'
+  console.log(name)
